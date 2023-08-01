@@ -19,10 +19,10 @@
 
  <h2></h2>
   <h3> <strong>⚒️ Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=github,nodejs,html,css,cs,sass,tailwind,js,react,java,cpp,py,mongodb,mysql,atom,eclipse,vscode,postman,netlify,vercel,figma,linux,r,postgres,php,xd,express,arduino,matlab" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=github,nodejs,html,css,cs,sass,tailwind,js,react,java,cpp,py,mongodb,mysql,atom,eclipse,vscode,postman,netlify,vercel,figma,linux,r,postgres,php,xd,express,arduino,matlab,materialui" alt="skills logos" /> <br>
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=docker,express,bootstrap,vue,materialui,redux,dotnet,angular" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=docker,bootstrap,vue,redux,dotnet,angular" alt="skills actively learning logos"> <br> 
   <h2></h2>
 </div>
 
