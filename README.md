@@ -14,12 +14,11 @@
 <a href="https://twitter.com/virajsandakelu8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Viraj Sandakelum" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/viraj-sandakelum-616252235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Viraj Sandakelum" height="30" width="40" /></a>
 <a href="https://web.facebook.com/viraj8811/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Viraj Sandakelum" height="30" width="40" /></a>
-</p><br>
+</p>
 
 
- <h2></h2>
-  <h3> <strong>⚒️ Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=github,nodejs,html,css,cs,sass,tailwind,js,react,java,cpp,py,mongodb,mysql,atom,eclipse,vscode,postman,netlify,vercel,figma,linux,r,postgres,php,xd,express,arduino,matlab,materialui,redux" alt="skills logos" /> <br>
+<h3> <strong>⚒️ Languages, Frameworks, and Tools </strong></h3>
+<img src="https://skillicons.dev/icons?i=github,nodejs,html,css,cs,sass,tailwind,js,react,java,cpp,py,mongodb,mysql,atom,eclipse,vscode,postman,netlify,vercel,figma,linux,r,postgres,php,xd,express,arduino,matlab,materialui,redux" alt="skills logos" /> <br>
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=docker,bootstrap,vue,dotnet,angular" alt="skills actively learning logos"> <br> 
