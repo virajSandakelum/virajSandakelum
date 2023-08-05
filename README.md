@@ -18,18 +18,13 @@
 
 
 <h3> <strong>⚒️ Languages, Frameworks, and Tools </strong></h3>
-<img src="https://skillicons.dev/icons?i=github,nodejs,html,css,cs,sass,tailwind,js,react,java,cpp,py,mongodb,mysql,atom,eclipse,vscode,postman,netlify,vercel,figma,linux,r,postgres,php,xd,express,arduino,matlab,materialui,redux" alt="skills logos" /> <br>
-  <h2></h2>
+<img src="https://skillicons.dev/icons?i=github,nodejs,html,css,cs,sass,tailwind,js,react,java,cpp,py,mongodb,mysql,atom,eclipse,vscode,postman,netlify,vercel,figma,linux,r,postgres,php,xd,express,arduino,matlab,materialui,redux" alt="skills logos" /> 
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=docker,bootstrap,vue,dotnet,angular" alt="skills actively learning logos"> <br> 
-  <h2></h2>
-</div>
 
-  
+
   <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=virajSandakelum&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
-  <br>
-
-  <br>
+ 
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virajSandakelum&theme=transparent&exclude=html)
