@@ -34,4 +34,4 @@
 
 ### 🏆 GitHub Profile Trophies 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=virajSandakelum)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=virajSandakelum&theme=transparent&no-frame=false&no-bg=false&margin-w=10&margin-h=8&h=400)<br>
