@@ -9,12 +9,9 @@
 [![Github](https://img.shields.io/github/followers/virajSandakelum?label=Follow&style=social)](https://github.com/virajSandakelum)
 
 
-<h3 align="left">📞Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/virajsandakelu8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Viraj Sandakelum" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/viraj-sandakelum-616252235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Viraj Sandakelum" height="30" width="40" /></a>
-<a href="https://web.facebook.com/viraj8811/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Viraj Sandakelum" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/virajsandakelum?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRRgKBTGfRYOEKMRXhzPIoQ%3D%3D" target="_blank">
+<img src="https://content.linkedin.com/content/dam/brand/site/img/logo/new-2019-logo.png" width="100px"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <h3> <strong>⚒️ Languages, Frameworks, and Tools </strong></h3>
@@ -35,3 +32,5 @@
 ### 🏆 GitHub Profile Trophies 
 
 ![](https://github-profile-trophy.vercel.app/?username=virajSandakelum&theme=transparent&no-frame=false&no-bg=false&margin-w=10&margin-h=8&h=400)<br>
+
+
