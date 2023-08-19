@@ -3,9 +3,6 @@
 <h1 align="center">Hi <img src='https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png' width="50px" position="relative" top="155px";>, I'm Viraj Sandakelum</h1>
 
 
-<br>
-[![Github](https://img.shields.io/github/followers/virajSandakelum?label=Follow&style=social)](https://github.com/virajSandakelum)
-
 
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/virajsandakelum?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRRgKBTGfRYOEKMRXhzPIoQ%3D%3D" target="_blank">
 <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/new-2019-logo.png" width="100px"/></a>
