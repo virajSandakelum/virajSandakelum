@@ -3,8 +3,6 @@
 <h1 align="center">Hi <img src='https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png' width="50px" position="relative" top="155px";>, I'm Viraj Sandakelum</h1>
 
 
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FvirajSandakelum&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FvirajSandakelum)
 <br>
 [![Github](https://img.shields.io/github/followers/virajSandakelum?label=Follow&style=social)](https://github.com/virajSandakelum)
 
